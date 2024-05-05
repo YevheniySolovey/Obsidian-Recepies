@@ -1,19 +1,19 @@
-- [[Mexican chicken & rice]]
-- [[Tomato and mascarpone orzo or rice]]
-- [[Fajita pasta]]
-- [[Garlic beef pasta]]
-- [[Mongolian beef noodles]]
-- [[Tuscan chicken]]
-- [[Shakshouka (israeli eggs with vegs)]]
-- [[Buckwheat with chicken in oven]]
-- [[Strapatsada (greek eggs with tomatoes)]]
-- [[Tomato pasta]]
-- [[Salty cheese pancakes]]
-- [[Gulash]]
-- [[Gulash v2]]
-- [[Chicken in mushroom sauce]]
-- [[Pasta with baked vegs]]
-- [[Carbonara]]
-- [[Mediterranean vegetable soup]]
-- [[Spaggetti el pomodoro]]
-- [[Chicken teriyaki fried rice]]
+- [Mexican chicken & rice](./Mexican%20chicken%20&%20rice.md)
+- [Tomato and mascarpone orzo or rice](Tomato%20and%20mascarpone%20orzo%20or%20rice.md)
+- [Fajita pasta](Fajita%20pasta.md)
+- [Garlic beef pasta](Garlic%20beef%20pasta.md)
+- [Mongolian beef noodles](Mongolian%20beef%20noodles.md)
+- [Tuscan chicken](Tuscan%20chicken.md)
+- [Shakshouka (israeli eggs with vegs)](Shakshouka%20(israeli%20eggs%20with%20vegs).md)
+- [Buckwheat with chicken in oven](Buckwheat%20with%20chicken%20in%20oven.md)
+- [Strapatsada (greek eggs with tomatoes)](Strapatsada%20(greek%20eggs%20with%20tomatoes).md)
+- [Tomato pasta](Tomato%20pasta.md)
+- [Salty cheese pancakes](Salty%20cheese%20pancakes.md)
+- [Gulash](Gulash.md)
+- [Gulash v2](Gulash%20v2.md)
+- [Chicken in mushroom sauce](Chicken%20in%20mushroom%20sauce.md)
+- [Pasta with baked vegs](Pasta%20with%20baked%20vegs.md)
+- [Carbonara](Carbonara.md)
+- [Mediterranean vegetable soup](Mediterranean%20vegetable%20soup.md)
+- [Spaggetti el pomodoro](Spaggetti%20el%20pomodoro.md)
+- [Chicken teriyaki fried rice](Chicken%20teriyaki%20fried%20rice.md)
