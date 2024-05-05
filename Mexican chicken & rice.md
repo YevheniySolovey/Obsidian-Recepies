@@ -30,3 +30,5 @@
 
 
 ![[Mexican chicken & rice.png]]
+
+<img src="Mexican chicken & rice.png" width="500" height="600">
