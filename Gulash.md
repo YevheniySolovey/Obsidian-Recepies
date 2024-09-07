@@ -1,14 +1,14 @@
 ## Ingredients
 - Beans
 - Beef
-- Bell pepper
+- +Bell pepper
 - Celery
-- Onion
-- Carrot
-- Garlic
-- Tomatoes
-- Ginger
-- Tomatoes paste
+- +Onion
+- +Carrot
+- ±Garlic
+- +Tomatoes
+- +Ginger
+- +Tomatoes paste
 ## Process
 1. Put beans in water from the previous day
 2. Cut beef in cubes
